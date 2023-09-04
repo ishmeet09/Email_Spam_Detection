@@ -1,1 +1,1 @@
-# Email_Spam_Detection
+Email spam detection using machine learning is an essential project that aims to automatically classify incoming emails as either spam or legitimate based on their content and characteristics. This project leverages various machine learning techniques and algorithms to analyze and categorize emails effectively.
